@@ -11,7 +11,7 @@ def resultado():
 
 # Configuración ventana principal
 root = Tk()
-root.title("Calculadora")
+root.title("Calculadora POO")
 root.resizable(0,0)
 root.geometry("300x260")
 
